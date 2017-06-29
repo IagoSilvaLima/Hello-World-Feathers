@@ -1,0 +1,18 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "introducion to feathers",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "iago silva",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "feathers": "^2.0.1",
+    "feathers-mongodb": "^2.4.2",
+    "feathers-rest": "^1.4.4",
+    "mongodb": "^2.2.9"
+  }
+}
